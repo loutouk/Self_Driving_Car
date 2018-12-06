@@ -2,3 +2,5 @@
 conda env create -f self_driving_car.yml
 
 activate self_driving_car
+
+python Path/To/file.py
